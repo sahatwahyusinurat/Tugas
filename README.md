@@ -1,2 +1,2 @@
 # Tugas-Algoritma
-Tugas Kelas
+ini semua tugas saya
