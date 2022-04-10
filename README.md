@@ -1,2 +1,2 @@
-# Tugas-Algoritma
-ini semua tugas saya
+# Tugas
+Nama : Sahat Wahyu Sinurat ; Nim : 2108541023
